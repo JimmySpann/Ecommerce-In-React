@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JimmySpann/react-ecommerce-demo/static/css/main.8b492b73.chunk.css",
+    "main.js": "/JimmySpann/react-ecommerce-demo/static/js/main.96763642.chunk.js",
+    "main.js.map": "/JimmySpann/react-ecommerce-demo/static/js/main.96763642.chunk.js.map",
+    "runtime-main.js": "/JimmySpann/react-ecommerce-demo/static/js/runtime-main.21cfb33a.js",
+    "runtime-main.js.map": "/JimmySpann/react-ecommerce-demo/static/js/runtime-main.21cfb33a.js.map",
+    "static/js/2.b911236b.chunk.js": "/JimmySpann/react-ecommerce-demo/static/js/2.b911236b.chunk.js",
+    "static/js/2.b911236b.chunk.js.map": "/JimmySpann/react-ecommerce-demo/static/js/2.b911236b.chunk.js.map",
+    "index.html": "/JimmySpann/react-ecommerce-demo/index.html",
+    "precache-manifest.4bbfd4d40a48c9d3b32d9b155082682e.js": "/JimmySpann/react-ecommerce-demo/precache-manifest.4bbfd4d40a48c9d3b32d9b155082682e.js",
+    "service-worker.js": "/JimmySpann/react-ecommerce-demo/service-worker.js",
+    "static/css/main.8b492b73.chunk.css.map": "/JimmySpann/react-ecommerce-demo/static/css/main.8b492b73.chunk.css.map",
+    "static/js/2.b911236b.chunk.js.LICENSE": "/JimmySpann/react-ecommerce-demo/static/js/2.b911236b.chunk.js.LICENSE",
+    "static/media/crown.ed28accb.svg": "/JimmySpann/react-ecommerce-demo/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21cfb33a.js",
+    "static/js/2.b911236b.chunk.js",
+    "static/css/main.8b492b73.chunk.css",
+    "static/js/main.96763642.chunk.js"
+  ]
+}
