@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-ecommerce-demo/static/css/main.8b492b73.chunk.css",
-    "main.js": "/react-ecommerce-demo/static/js/main.a3d3b430.chunk.js",
-    "main.js.map": "/react-ecommerce-demo/static/js/main.a3d3b430.chunk.js.map",
+    "main.js": "/react-ecommerce-demo/static/js/main.b8718f16.chunk.js",
+    "main.js.map": "/react-ecommerce-demo/static/js/main.b8718f16.chunk.js.map",
     "runtime-main.js": "/react-ecommerce-demo/static/js/runtime-main.b710deed.js",
     "runtime-main.js.map": "/react-ecommerce-demo/static/js/runtime-main.b710deed.js.map",
-    "static/js/2.25d35a2b.chunk.js": "/react-ecommerce-demo/static/js/2.25d35a2b.chunk.js",
-    "static/js/2.25d35a2b.chunk.js.map": "/react-ecommerce-demo/static/js/2.25d35a2b.chunk.js.map",
+    "static/js/2.44156752.chunk.js": "/react-ecommerce-demo/static/js/2.44156752.chunk.js",
+    "static/js/2.44156752.chunk.js.map": "/react-ecommerce-demo/static/js/2.44156752.chunk.js.map",
     "index.html": "/react-ecommerce-demo/index.html",
-    "precache-manifest.21d9569265456ce921020e47e0eb1f8d.js": "/react-ecommerce-demo/precache-manifest.21d9569265456ce921020e47e0eb1f8d.js",
+    "precache-manifest.23ef7110d4bce32817a0adfa14001514.js": "/react-ecommerce-demo/precache-manifest.23ef7110d4bce32817a0adfa14001514.js",
     "service-worker.js": "/react-ecommerce-demo/service-worker.js",
     "static/css/main.8b492b73.chunk.css.map": "/react-ecommerce-demo/static/css/main.8b492b73.chunk.css.map",
-    "static/js/2.25d35a2b.chunk.js.LICENSE": "/react-ecommerce-demo/static/js/2.25d35a2b.chunk.js.LICENSE",
+    "static/js/2.44156752.chunk.js.LICENSE": "/react-ecommerce-demo/static/js/2.44156752.chunk.js.LICENSE",
     "static/media/crown.ed28accb.svg": "/react-ecommerce-demo/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b710deed.js",
-    "static/js/2.25d35a2b.chunk.js",
+    "static/js/2.44156752.chunk.js",
     "static/css/main.8b492b73.chunk.css",
-    "static/js/main.a3d3b430.chunk.js"
+    "static/js/main.b8718f16.chunk.js"
   ]
 }
